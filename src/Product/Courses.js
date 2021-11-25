@@ -9,7 +9,7 @@ let Courses = props => {
                     {props.name}
                 </div>
                 <div className="_ratings">
-                    {this.ratings}
+                    {props.ratings}
                 </div>
 
             </div>
